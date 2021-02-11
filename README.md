@@ -11,7 +11,7 @@
 - 📝 Meu projetos: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
 
 
-[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lhieel)](https://github.com/Lhieel/github-readme-stats)
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lhieel&show_icons=true&theme=radical)](https://github.com/Lhieel/github-readme-stats)
 
 
 <p align="center">
