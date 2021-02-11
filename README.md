@@ -11,9 +11,6 @@
 - 📝 Meu projetos: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-simão-rovida-1a855a169/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonardo" height="20" width="20" /></a>
 <a href="https://www.instagram.com/lhieel_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonardo" height="20" width="20" /></a>
