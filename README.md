@@ -6,7 +6,7 @@
 <h2>Sobre mim</h2>
 
 - 📚 Atualmente estou estudando: **HTML, CSS, JavaScript**
-- 📌 Tenho interesse: React.js</li>
+- 📌 Tenho interesse: **React.js**
 - 📫 Contato: **leosimao2010@gmail.com**
 - 📝 Meu projetos: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
 
