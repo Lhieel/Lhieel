@@ -8,7 +8,7 @@
 - 📚 Atualmente estou estudando: **HTML, CSS, JavaScript**
 - 📌 Tenho interesse: **React.js**
 - 📫 Contato: **leosimao2010@gmail.com**
-- 📝 Meu projetos: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
+- 📝 Meus projetos: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
 
 
 [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lhieel&show_icons=true&theme=radical)](https://github.com/Lhieel/github-readme-stats)
