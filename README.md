@@ -1,14 +1,14 @@
-<h1 align="center">Olá, Eu sou Leonardo Simão</h1>
+<h1 align="center">Hi, I'm Leonardo Simão</h1>
 
-<h3 align="center">Atualmente estudante de desenvolvimento web.</h3>
+<h3 align="center">A web developer student.</h3>
 
 
 <h2>Sobre mim</h2>
 
-- 📚 Atualmente estou estudando: **HTML, CSS, JavaScript**
-- 📌 Tenho interesse: **React.js**
-- 📫 Contato: **leosimao2010@gmail.com**
-- 📝 Meus projetos: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
+- 📚 I'm currently learning: **HTML, CSS, JavaScript**
+- 📌 Interests: **React.js**
+- 📫 Contact: **leosimao2010@gmail.com**
+- 📝 My projects: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
 
 
 [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lhieel&show_icons=true&theme=radical)](https://github.com/Lhieel/github-readme-stats)
