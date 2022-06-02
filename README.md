@@ -5,7 +5,7 @@
 
 <h2>Sobre mim</h2>
 
-- 📚 I'm currently learning: *React.js**
+- 📚 I'm currently learning: **React.js**
 - 📫 Contact: **leosimao2010@gmail.com**
 - 📝 My projects: [https://github.com/Lhieel?tab=repositories](https://github.com/Lhieel?tab=repositories)
 
