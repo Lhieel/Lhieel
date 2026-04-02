@@ -4,12 +4,6 @@
 
 
 <div align='center'>
- <div>  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhieel&layout=compact&hide_border=true&title_color=7B68EE&text_color=ff91a4&bg_color=0d1117" />
- </div>
-
-
- 
   <img alt= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt= "CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt= "Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
